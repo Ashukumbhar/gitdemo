@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1740227028,,"wq!"
+|2,0,1740227383,,"wq!"
 :wq/!
 |2,0,1739867342,,"wq/!"
 
@@ -35,36 +35,52 @@
 |3,1,36,0,1,0,1737791926,"l"
 
 # File marks:
-'0  4  0  ~/mumbai2
-|4,48,4,0,1740227028,"~/mumbai2"
-'1  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
-|4,49,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
-'2  3  7  ~/mumbai1/mumbaigit/myfile7
-|4,50,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
-'3  2  17  ~/mumbai1/mumbaigit/myfile7
-|4,51,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+'0  4  0  ~/omii
+|4,48,4,0,1740227383,"~/omii"
+'1  4  0  ~/mumbai2
+|4,49,4,0,1740227028,"~/mumbai2"
+'2  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
+|4,50,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
+'3  3  7  ~/mumbai1/mumbaigit/myfile7
+|4,51,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
 '4  2  17  ~/mumbai1/mumbaigit/myfile7
 |4,52,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
-'5  2  0  ~/mumbai1/mumbaigit/myfile7
-|4,53,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
+'5  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,53,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
 '6  2  0  ~/mumbai1/mumbaigit/myfile7
 |4,54,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
-'7  4  0  ~/mumbai1/mumbaigit/myfile3
-|4,55,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
-'8  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,56,2,0,1739866409,"~/mumbai1/mumbaigit/myfile3"
+'7  2  0  ~/mumbai1/mumbaigit/myfile7
+|4,55,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
+'8  4  0  ~/mumbai1/mumbaigit/myfile3
+|4,56,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
 '9  2  0  ~/mumbai1/mumbaigit/myfile3
 |4,57,2,0,1739866409,"~/mumbai1/mumbaigit/myfile3"
 
 # Jumplist (newest first):
+-'  4  0  ~/omii
+|4,39,4,0,1740227383,"~/omii"
+-'  1  0  ~/omii
+|4,39,1,0,1740227318,"~/omii"
 -'  4  0  ~/mumbai2
 |4,39,4,0,1740227028,"~/mumbai2"
+-'  4  0  ~/mumbai2
+|4,39,4,0,1740227028,"~/mumbai2"
+-'  3  0  ~/mumbai2
+|4,39,3,0,1740227014,"~/mumbai2"
 -'  3  0  ~/mumbai2
 |4,39,3,0,1740227014,"~/mumbai2"
 -'  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
 |4,39,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
 -'  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
 |4,39,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
+-'  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
+|4,39,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
+-'  8  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
+|4,39,8,0,1739867404,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
+-'  1  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
+|4,39,1,0,1739867389,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
+-'  1  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
+|4,39,1,0,1739867389,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
 -'  1  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
 |4,39,1,0,1739867389,"~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG"
 -'  1  0  ~/mumbai1/mumbaigit/.git/COMMIT_EDITMSG
@@ -77,6 +93,22 @@
 |4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
 -'  3  7  ~/mumbai1/mumbaigit/myfile7
 |4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
+-'  3  7  ~/mumbai1/mumbaigit/myfile7
+|4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
+-'  3  7  ~/mumbai1/mumbaigit/myfile7
+|4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
+-'  3  7  ~/mumbai1/mumbaigit/myfile7
+|4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
+-'  3  7  ~/mumbai1/mumbaigit/myfile7
+|4,39,3,7,1739867355,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739867327,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739867327,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739867327,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739867327,"~/mumbai1/mumbaigit/myfile7"
 -'  2  17  ~/mumbai1/mumbaigit/myfile7
 |4,39,2,17,1739867327,"~/mumbai1/mumbaigit/myfile7"
 -'  2  17  ~/mumbai1/mumbaigit/myfile7
@@ -93,6 +125,22 @@
 |4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
 -'  2  17  ~/mumbai1/mumbaigit/myfile7
 |4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+-'  2  17  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,17,1739866989,"~/mumbai1/mumbaigit/myfile7"
+-'  2  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
+-'  2  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
+-'  2  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
+-'  2  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
 -'  2  0  ~/mumbai1/mumbaigit/myfile7
 |4,39,2,0,1739866941,"~/mumbai1/mumbaigit/myfile7"
 -'  2  0  ~/mumbai1/mumbaigit/myfile7
@@ -125,6 +173,30 @@
 |4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
 -'  1  0  ~/mumbai1/mumbaigit/myfile7
 |4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
+-'  1  0  ~/mumbai1/mumbaigit/myfile7
+|4,39,1,0,1739866927,"~/mumbai1/mumbaigit/myfile7"
 -'  4  0  ~/mumbai1/mumbaigit/myfile3
 |4,39,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
 -'  4  0  ~/mumbai1/mumbaigit/myfile3
@@ -185,80 +257,18 @@
 |4,39,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
 -'  4  0  ~/mumbai1/mumbaigit/myfile3
 |4,39,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
--'  4  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
--'  4  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,4,0,1739866520,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866508,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866409,"~/mumbai1/mumbaigit/myfile3"
--'  2  0  ~/mumbai1/mumbaigit/myfile3
-|4,39,2,0,1739866409,"~/mumbai1/mumbaigit/myfile3"
 
 # History of marks within files (newest to oldest):
+
+> ~/omii
+	*	1740227374	0
+	"	4	0
+	^	4	0
+	.	3	22
+	+	1	18
+	+	2	17
+	+	3	22
+	y	1	0
 
 > ~/mumbai2
 	*	1740227023	0
